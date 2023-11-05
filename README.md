@@ -1,7 +1,5 @@
 # Olá Devs, sou Johnny Pecego <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnnyrps&color=green" alt="Profile views" /> </p>
 
 ### :zap: Um pouco sobre mim:
@@ -34,7 +32,7 @@
 <br>
 
 ### :zap: Social Links: 
-[![GitHub Followers](https://img.shields.io/github/followers/johnnypecego?style=for-the-badge&logo=Github&Color=white)](https://github.com/johnnyrps)
+[![GitHub Followers](https://img.shields.io/github/followers/johnnyrps?style=for-the-badge&logo=Github&Color=white)](https://github.com/johnnyrps)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnny-pecego)
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/johnnypecego_oficial)
 <a href="https://discord.com/app" target="_blank">
