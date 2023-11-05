@@ -37,7 +37,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnny-pecego)
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/johnnypecego_oficial)
 <a href="https://discord.com/app" target="_blank">
-  <img src="https://img.shields.io/badge/johnnypecego%8808-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/johnnypecego-7289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 <a href="mailto:johnnyrps@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
