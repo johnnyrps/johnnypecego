@@ -46,4 +46,4 @@
 
 <br>
 
-![Snake animation]([https://github.com/johnnyrps/johnnypecego/blob/main/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/johnnyrps/johnnypecego/0f96d7bdbd62060ef493fb93a5019cc7befdd3c3/github-contribution-grid-snake.svg)https://raw.githubusercontent.com/johnnyrps/johnnypecego/0f96d7bdbd62060ef493fb93a5019cc7befdd3c3/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/johnnyrps/johnnypecego/blob/main/github-contribution-grid-snake.svg)
